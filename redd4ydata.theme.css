@@ -295,11 +295,6 @@
   --custom-display-name-styles-font-opacity: 1!important;
 }
 
-
-/*removes rounded edges on dm highlight - not controlled by root radius */
-.e45859d60799ad7c-container {
-  border-radius:0px!important;
-}
 /*---------------------------- for message bar --------------------------*/
 
 /*spcifically for when message bar has "gollow tog et this channels updates in your own server" */
@@ -367,16 +362,6 @@
 .b52e4f70d11a5ca2-gameIcon{
   overflow: visible !important;
   border-radius: 0px !important;
-}
-/*remove rounded border from ping graphic */
-._06d6249a1f2584ac-largePing {
-  border-radius: 0px !important;
-}
-
-/*remove rounded borders from bottom left widgets facecam / stream / activity / soundboard selector */
-._201d5e8a3c09670a-grow{
-  border-radius: 0px !important;
-  padding: 0px!important;
 }
 
 .container > ._44b0c28be7879b7b-wrapper:nth-child(2) svg {
@@ -661,13 +646,7 @@ ul[role="group"] > .containerDefault_c69b6d{
 foreignObject[x="0"][width="20"][height="20"][mask]{
   mask:none!important;
 }
-/* removes rounded edges on pip stream */
-._2b2f1bb918566c48-elevationHigh{
-  border-radius: 0 !important;
-  overflow: visible !important;
-  clip-path: none !important;
-  mask: none !important;
-}
+
 
 
 /*moving channel selection bg over to the left*/
@@ -679,15 +658,6 @@ foreignObject[x="0"][width="20"][height="20"][mask]{
 
 /*current hovering channel*/
 .c69b6db0641110f6-selected{
-  border-radius: 0 !important;
-  overflow: visible !important;
-  clip-path: none !important;
-  mask: none !important;
-}
-
-/*removes rounded edges off channel hovering */ 
-._2ea32c412048f708-link,
-._07f9193042954787-content{
   border-radius: 0 !important;
   overflow: visible !important;
   clip-path: none !important;
@@ -741,34 +711,6 @@ foreignObject[x="0"][width="20"][height="20"][mask]{
 .chatGradientBase__36d07 {
   display:none!important;
 }
-
-
-
-
-
-
-/*removing rounded edges and adding border to user pfp */
-.c19a557985eb7793-avatar {
-  border-radius: 0px!important;
-  background-color: var(--cursedcord-primary-color)!important;
-}
-
-/* remove circle mask from user pfp in settings*/
-foreignObject[width="48"][height="48"][x="0"][mask]{
-  mask:none!important;
-}
-
-/*remove circle mask from "show user profile" users profile banner*/
-.fill_f7e69e, .banner__68edb, .banner__7f9c0{
-  mask:none!important;
-}
-
-/* targets server icon makes. makes servers square*/
-foreignObject[width="40"][height="40"],
-foreignObject[width="32"][height="32"]{
-  mask:none!important;
-}
-
 
 
 
