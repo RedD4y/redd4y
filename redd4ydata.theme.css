@@ -1506,8 +1506,8 @@ button.button__67645 .lottieIcon__5eb9b svg path {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 50px !important;
-    margin-left: -130px;
+    gap: 30px !important;
+    margin-left: 0px;
 }
 
 .layer_bc663c .root__49fc1.small__49fc1.fullscreenOnMobile__49fc1.rootWithShadow__49fc1, .layer_bc663c .footer__49fc1{
@@ -1577,7 +1577,7 @@ color: var(--rosynight-main2) !important;
   position: relative;
   border: none;
   border-radius: 5px;
-  width: 40%;
+  width: 80%;
   margin-left: 70px;
   background-color: var(--rosynight-bg);
 }
