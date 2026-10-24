@@ -1506,8 +1506,8 @@ button.button__67645 .lottieIcon__5eb9b svg path {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 30px !important;
-    margin-left: 0px;
+    gap: 20px !important;
+    margin-left: -70px;
 }
 
 .layer_bc663c .root__49fc1.small__49fc1.fullscreenOnMobile__49fc1.rootWithShadow__49fc1, .layer_bc663c .footer__49fc1{
