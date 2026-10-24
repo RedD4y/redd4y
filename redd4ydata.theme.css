@@ -656,13 +656,6 @@ foreignObject[x="0"][width="20"][height="20"][mask]{
   width:calc(var(--custom-guild-sidebar-width) - var(--custom-guild-list-width) - 1px)!important;
 }
 
-/*current hovering channel*/
-.c69b6db0641110f6-selected{
-  border-radius: 0 !important;
-  overflow: visible !important;
-  clip-path: none !important;
-  mask: none !important;
-}
 
 .root_bfe55a {
   background:var(--background-base-lowest)!important;
@@ -685,20 +678,6 @@ foreignObject[x="0"][width="20"][height="20"][mask]{
 /*border for message box */
 .f75fb00fb7356cbe-channelBottomBarArea {
   border: 1px solid var(--cursedcord-border) !important;
-}
-
-/*squares up message box */
-.f75fb00fb7356cbe-form {
-  padding-inline:0px !important;
-}
-
-._740174f3d6a2c8fe-scrollableContainer,
-._740174f3d6a2c8fe-themedBackground{
-  border-radius: 0px!important;
-}
-
-._5e434347c823b592-container{
-  --custom-chat-input-margin-bottom:none!important;
 }
 
 /*remove border off message box */
@@ -879,15 +858,7 @@ a[data-list-item-id$="___shop"] {
 /*bg of "message user" in pfp popout*/
 .container_a99829{
 }
-/*buncha borders shit */
-.c8ffbb79449f399c-container,
-.e6b7699ce8339e1c-searchBar,
-._9293f6b2fc12398a-container,
-._7641b507c6cdbb10-container{
-  border-right: 1px solid var(--cursedcord-border) !important;
-  border-start-start-radius: 0px!important;
-  border-radius: 0px!important;
-}
+
 
 ._5e434347c823b592-sidebarList{
     border:none!important;
