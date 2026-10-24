@@ -354,13 +354,6 @@ body {
   outline: none !important;
 }
 
-#app-mount .panels__5e434>.container__37e49 .avatarWrapper__37e49 {
-  position: fixed;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 #app-mount .panels__5e434>.container__37e49 .avatar__37e49 {
   width: 32px !important;
   height: 32px !important;
