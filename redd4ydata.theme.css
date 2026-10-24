@@ -362,13 +362,9 @@ body {
 }
 
 #app-mount .panels__5e434>.container__37e49 .avatar__37e49 {
-  width: 80px !important;
-  height: 35px !important;
+  width: 32px !important;
+  height: 32px !important;
   margin-left: -70px;
-}
-
-.container__37e49 .avatar__37e49 .avatarDecorationContainer__44b0c {
-  display: none;
 }
 
 #app-mount .nameTag__37e49 {
@@ -377,28 +373,6 @@ body {
 
 #app-mount .avatarWrapper__37e49:hover {
   background: transparent !important;
-}
-
-#app-mount .panels__5e434>.container__37e49 .avatarWrapper__37e49 {position: fixed;left: 20px;bottom: 35px;border-top: none;}
-
-#app-mount .panels__5e434>.container__37e49 .avatar__37e49 {
-  filter: drop-shadow(0 0 5px);
-  color: var(--rosynight-main);
-}
-
-
-.avatarWrapper__37e49 .avatarDecoration__44b0c {
-  display: none;
-}
-
-.avatarWrapper__37e49 .mask__44b0c.svg__44b0c {
-  width: 55px;
-  height: 55px;
-  margin-left: -75px !important;
-}
-
-#app-mount .nameTag__37e49 {
-  display: none;
 }
 
 .container__37e49 {
